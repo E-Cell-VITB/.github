@@ -20,10 +20,10 @@ We aim to **nurture entrepreneurial spirit** by providing resources, mentorship,
 ---
 
 ## 📌 What We Do  
-- 🔹 **Workshops & Hackathons** – Hands-on learning experiences.  
-- 🔹 **Incubation Support** – From idea validation to MVP development.  
-- 🔹 **Startup Funding Guidance** – Helping you secure funding opportunities.  
-- 🔹 **Community Engagement** – Meetups, pitch events, and networking.  
+ 🔹 **Workshops & Hackathons** – Hands-on learning experiences.  
+ 🔹 **Incubation Support** – From idea validation to MVP development.  
+ 🔹 **Startup Funding Guidance** – Helping you secure funding opportunities.  
+ 🔹 **Community Engagement** – Meetups, pitch events, and networking.  
 
 ---
 
