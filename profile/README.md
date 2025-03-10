@@ -31,6 +31,6 @@ We aim to **nurture entrepreneurial spirit** by providing resources, mentorship,
 Are you a student, developer, or entrepreneur with a vision? **Join us and be part of the movement to shape the future!**  
 
 📧 **Contact Us**: [E-cell@vishnu.edu.in](mailto:E-cell@vishnu.edu.in)  
-🌐 **Follow Us**: [LinkedIn](https://www.instagram.com/ecell_vitb/)| [Instagram](https://www.linkedin.com/company/ecellvitb) 
+🌐 **Follow Us**: [LinkedIn](https://www.instagram.com/ecell_vitb/) || [Instagram](https://www.linkedin.com/company/ecellvitb) 
 
 Let’s **build, innovate, and transform ideas into reality**! 🚀  
