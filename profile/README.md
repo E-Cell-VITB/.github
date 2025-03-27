@@ -4,7 +4,6 @@
 🚀 Welcome to the official GitHub organization of **E-Cell Vishnu Institute of Technology**! We are a dynamic community dedicated to fostering innovation, entrepreneurship, and technological advancements.  
 
 ---
-
 ## 🔥 About Us  
 E-Cell Vishnu Institute of Technology is a platform that empowers students to **innovate, build, and launch** their own startups. We provide a collaborative environment where aspiring entrepreneurs can turn their ideas into real-world solutions through:  
 
