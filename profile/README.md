@@ -36,10 +36,10 @@ To **cultivate a culture of innovation** and inspire students to pursue entrepre
 ## 🚀 Our Initiatives  
 We provide a platform for hands-on learning, exploration, and execution:
 
-- 🔹 **Workshops & Hackathons** – Practical experiences to build skills and products.  
-- 🔹 **Incubation Support** – Tailored guidance from ideation to MVP development.  
-- 🔹 **Funding Navigation** – Assistance in finding and approaching funding opportunities.  
-- 🔹 **Community Engagement** – Events, pitch days, meetups, and more.
+-  **Workshops & Hackathons** – Practical experiences to build skills and products.  
+-  **Incubation Support** – Tailored guidance from ideation to MVP development.  
+-  **Funding Navigation** – Assistance in finding and approaching funding opportunities.  
+-  **Community Engagement** – Events, pitch days, meetups, and more.
 
 ---
 
